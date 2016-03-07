@@ -51,7 +51,6 @@ Wash sale*:
 1. 如果两个账户交互产生wash sale交易.比如scottrade下卖出,30天内在IB买入
 2. 年底产生wash sale交易 (?)
 Wash sale虽然很难统计,但大多数wash sale并不影响最后退税, 因为当你产生wash sale后卖出,wash sale就被清洗了.这里还有一些诀窍避免wash sale的影响.
-1) 如何避免wash sale对税务产生实质影响:
 方法1: 避免12月份卖出,1月份买入
 方法2: 12月份close任何之前产生了wash sale的交易.提前卖出那些股票,避免带到下一年.
 

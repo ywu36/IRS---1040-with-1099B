@@ -48,13 +48,12 @@ line 72*: line 71 - line 61, 这是全年退税额！
 根据IRS的instruction，如果broker把所有的basis reported to the IRS就不用写这个了．如果没有的话你需要人工统计每笔交易,with box B checked.但你需要小心wash sale．
 Wash sale*:
 这个是老大难了.IRS自己都说不清楚,请自行科普下什么叫wash sale. 大多wash sale已经被broker统计在1099B中上报IRS了.但也有例外:
-1. 如果两个账户进行wash sale
-1. Wash sale虽然很难统计,但大多数wash sale并不影响最后退税, 因为当你产生wash sale后卖出,wash sale就被清洗了.这里还有一些诀窍避免wash sale的影响.
-1) 如何避免对税务产生实质影响:
-方法1: 尽量避免12月份卖出,1月份买入
+1. 如果两个账户交互产生wash sale交易.比如scottrade下卖出,30天内在IB买入
+2. 年底产生wash sale交易 (?)
+Wash sale虽然很难统计,但大多数wash sale并不影响最后退税, 因为当你产生wash sale后卖出,wash sale就被清洗了.这里还有一些诀窍避免wash sale的影响.
+1) 如何避免wash sale对税务产生实质影响:
+方法1: 避免12月份卖出,1月份买入
 方法2: 12月份close任何之前产生了wash sale的交易.提前卖出那些股票,避免带到下一年.
-2) 什么情况下wash sale不被broker所统计:
-
 
 我最后没弄懂的问题：
 １．Capital dividend填到schedule ＮＥＣ上还是1040NR里的10b里,　我个人倾向于填到schedule NEC里．更符合ＩＲＳ对于dividend的描述

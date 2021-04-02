@@ -1,4 +1,4 @@
-# IRS---1040NR-with-1099B
+# IRS---1040 Resident Alien-with-1099B
 北美留学生股票报税终极指南：
 
 今天终于把税务问题解决了，今年报税由于有了股票和基金略显焦灼，google相关信息不多，写一个总结放上来给大家分享．
@@ -34,7 +34,7 @@ line 72*: line 71 - line 61, 这是全年退税额！
 1. 这张表对应着1099-DIV
 2. 因为留学生分红全部按照30%收税，所以直接在１a或1b上填写总额，并在line 15里算出乘以30%后的数额即可，把line 15填入1040NR的line 54.
 
-四. Schedule D填报重点：　小心wash sale
+四. Schedule D填报重点 (Resident Alien)：　小心wash sale
 这是炒股的同学们报税最复杂的一项工程，我前后投入了至少２０个小时才最后明白每笔交易．但这只是我自己的理解还希望大神们纠正．
 1. 需要准备好1099B（们）
 2. 如果你的broker很负责的在1099B统计了所有的交易并且在1099B上标注了basis was reported to the IRS，那么你稍微可以心中窃喜一下．因为你只需要check一件事情，就是年底前有没有wash sale就可以直接把数额填到part 1a 中了
@@ -57,3 +57,10 @@ Wash sale虽然很难统计,但大多数wash sale并不影响最后退税, 因�
 我最后没弄懂的问题：
 １．Capital dividend填到schedule ＮＥＣ上还是1040NR里的10b里,　我个人倾向于填到schedule NEC里．更符合ＩＲＳ对于dividend的描述
 ２．如果1099B里with box A checked的交易里有wash sale，需要填入8949里的1a还是8949里的1b（那就累死爸爸了要）．我之前填入了１a，但g里就不能填入adjustment金额了.我处理的方法是用e减去了g凑够了h.
+
+If you are non-resident alien (using 1040NR),你需要用schedule nec报税，具体可以看这个link
+
+https://www.irs.gov/individuals/international-taxpayers/the-taxation-of-capital-gains-of-nonresident-alien-students-scholars-and-employees-of-foreign-governments
+
+注意最后一句
+These capital gains would be reported on page 4 (not page 1) of Form 1040NR and would not be reported on a Schedule D because they are being taxed at a flat rate of 30 percent or at a reduced flat rate under a tax treaty.
